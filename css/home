@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Press+Start+2P');
+h1{
+  color:  antiquewhite;
+  border: 5px solid burlywood;
+  padding: 15% ;
+  background-blend-mode: saturation;
+  background-color: cadetblue;
+  font-family: 'Press Start 2P', cursive;
+}
+h3{
+  margin: 2%;
+  color:  antiquewhite;
+  border: 5px solid burlywood;
+  padding: 5%;
+  background-blend-mode: saturation;
+  background-color: cadetblue;
+  font-family: 'Poiret One', cursive;
+}
+#signUpActualForm,#ad{
+  margin-left: 5%;
+  color:  antiquewhite;
+  border: 5px solid burlywood;
+  padding: 5%;
+  background-blend-mode: saturation;
+  background-color:  cadetblue;
+  font-family: 'Poiret One', cursive;
+}
